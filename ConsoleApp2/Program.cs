@@ -9,6 +9,7 @@ namespace ConsoleApp2
         {
             string uname = "junanthony25";
             char symbol = '@';
+            string lastName = "Calupcupan";
 
             string username = symbol + uname;
 
